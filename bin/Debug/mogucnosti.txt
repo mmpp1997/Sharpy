@@ -1,0 +1,59 @@
+Wake up!
+Activates Sharpy
+
+Whats up?
+See what is Sharpy up to
+
+How are you sharpy?
+See how is Sharpy doing
+
+Can you tell me the date?
+Sharpy reads the date for you
+
+Can you open notepad?
+Opens Notepad
+
+Can you close notepad?
+Closes Notepad (nircmd needs to be on the computer)
+
+Thange sound!
+Changes between mute and sound option
+
+That is all!
+Closes Sharpy
+
+I am ok!
+Respond to Sharpy
+
+Can you go to the web?
+Opens Microsoft Edge
+
+Can you close Edge?
+Closes Microsoft Edge (nircmd needs to be on the computer)
+
+What did i copy?
+Peaks to the clipboard to see what did you copy
+
+What can you do?
+Opens this file containing instructions
+
+Can you check the weather?
+Opens the weather page
+
+Please open task manager!
+Opens task Manager
+
+Open Quick access!
+Opens Quick Access
+
+Start!
+Shows start menu
+
+Hide!
+Minimizes the Sharpy
+
+Maximize!
+Maximizes the Sharpy
+
+Open cmd!
+Opens command prompt

@@ -1,0 +1,10 @@
+C:\Users\Mario\Desktop\Završni\Sharpy\bin\Debug\Sharpy.exe.config
+C:\Users\Mario\Desktop\Završni\Sharpy\bin\Debug\Sharpy.exe
+C:\Users\Mario\Desktop\Završni\Sharpy\bin\Debug\Sharpy.pdb
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.Form1.resources
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.Properties.Resources.resources
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.exe
+C:\Users\Mario\Desktop\Završni\Sharpy\obj\Debug\Sharpy.pdb
